@@ -8,3 +8,8 @@ main {
   padding: 8px;
   max-width: 500px;
 }
+.profile {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
